@@ -6,7 +6,7 @@
 
 A Flash Card game that runs locally on the users terminal using `node.js`.
 Each turn displays a cards question, and 3 multiple choices.
-Once 1 out of the 3 answers has been chosen, user will be given feedback if the answer was correct and move on to the next card. After finishing the deck of cards, user will be given feedback showing the percentage of questions they answered correctly.
+Once 1 out of the 3 answers has been chosen, user will be given feedback if the answer was correct or incorrect and move on to the next card. After finishing the deck of cards, user will be given feedback showing the percentage of questions they answered correctly.
 
 
 ![Annotations](https://media.giphy.com/media/ywQFtjqgQCd4BU46bu/giphy.gif)
