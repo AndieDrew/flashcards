@@ -17,7 +17,7 @@ Once 1 out of the 3 answers has been chosen, user will be given feedback if the 
 3. Navigate into the repository on your machine.
 4. From root directory, run the command `npm install`.
 5. From root directory, run the command `node index.js`.
-6. Read the current question, and chose one of the multiple choices by pressing 1-3 and entering.
+6. Read the current question, and chose one of the multiple choices by pressing 1-3 or using arrow keys and press enter.
 7. Press enter after receiving feedback to move on to the next question.
 8. Repeat steps 6 and 7 until all cards of the deck have been answered to see the percentage of questions you've answered correctly.
 
